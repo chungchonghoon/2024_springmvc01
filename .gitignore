@@ -1,6 +1,3 @@
 .metadata/
-<<<<<<< HEAD
 Servers/
-=======
-Servers/
->>>>>>> e49806e2f544b58a413ec423345572494eaeb510
+/target/
